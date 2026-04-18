@@ -1,2 +1,2 @@
 # PCB-Design
-Exploring PCB Design Stratergies
+Mixed Signal 7 Layer PCB Design 
